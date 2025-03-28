@@ -4,4 +4,10 @@
 
 首次使用需要先配置
 
+需要安装Python和requests库
+
+程序本体.py文件，打开填入账密即可运行
+
 嵌套一个.bat文件是为了实现自动启动程序时，不弹出选择打开方式。如果手动操作，无需下载
+
+使用教程https://www.bilibili.com/video/BV1QioXYEExg
